@@ -1,0 +1,2 @@
+0 3 * * * /home/ubuntu/linux-lab-notes/backup-wiith-cron/backup-home.sh
+

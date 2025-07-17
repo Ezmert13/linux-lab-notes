@@ -42,5 +42,5 @@ This setup uses a Bash script that logs the current system time into a file ever
 
 ## Tested on
 
-- Ubuntu 22.04 LTS (AWS EC2 instance)
+- Ubuntu 24.04 LTS (AWS EC2 instance)
 
