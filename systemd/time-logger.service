@@ -1,0 +1,5 @@
+[Unit]
+Description=TIme Logger Service
+
+[Service]
+ExecStart=/home/ubuntu/linux-lab-notes/systemd/time-logger.sh
